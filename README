@@ -11,7 +11,9 @@ Data table has folowing format:
 
 The main functions are located in file mine.py:
 - "mine_c45" is an implementation of the C4.5 algorithm;
-- "tree_to_rules" is a function for generate rules from desicion tree.
+- "tree_to_rules" is a function for generate rules from decision tree.
 
 
-Author: Timofey Trukhanov "timofey.trukhanov@gmail.com"
+Authors:
+Timofey Trukhanov "timofey.trukhanov@gmail.com",
+Kirll Romanov "djaler1@gmail.com"
